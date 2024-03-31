@@ -1,0 +1,991 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - android architecture",
+        "totalResults": "581000000",
+        "searchTerms": "android architecture",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "530511ee58e724937"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - android architecture",
+        "totalResults": "581000000",
+        "searchTerms": "android architecture",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "530511ee58e724937"
+      }
+    ]
+  },
+  "context": {
+    "title": "google"
+  },
+  "searchInformation": {
+    "searchTime": 0.50739,
+    "formattedSearchTime": "0.51",
+    "totalResults": "581000000",
+    "formattedTotalResults": "581,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Guide to app architecture | Android Developers",
+      "htmlTitle": "Guide to app \u003cb\u003earchitecture\u003c/b\u003e | \u003cb\u003eAndroid\u003c/b\u003e Developers",
+      "link": "https://developer.android.com/topic/architecture",
+      "displayLink": "developer.android.com",
+      "snippet": "Jul 12, 2023 ... Guide to app architecture · We recommend following dependency injection patterns and using the Hilt library in Android apps. · Don't store data ...",
+      "htmlSnippet": "Jul 12, 2023 \u003cb\u003e...\u003c/b\u003e Guide to app \u003cb\u003earchitecture\u003c/b\u003e &middot; We recommend following dependency injection patterns and using the Hilt library in \u003cb\u003eAndroid\u003c/b\u003e apps. &middot; Don&#39;t store data&nbsp;...",
+      "cacheId": "7TlxBEDoN_4J",
+      "formattedUrl": "https://developer.android.com/topic/architecture",
+      "htmlFormattedUrl": "https://developer.\u003cb\u003eandroid\u003c/b\u003e.com/topic/\u003cb\u003earchitecture\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPGA7vCIUGNnG7ixs3GWUZ8Vvhnbnbx0YJ_MM_ndKpo7ZE1GJaMMSGzc4",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "document": [
+          {
+            "keywords": "E__category__AndroidUseCases E__product__Android E__category__Mobile E__category__Interest E__category__OperatingSystem E__category__Architecture E__category__AndroidArchitecture E__category__UseCases E__category__Android K__category__AndroidArchitecture K__product__Android",
+            "keyword": "E__category__AndroidUseCases"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://developer.android.com/static/images/social/android-developers.png",
+            "og:type": "website",
+            "theme-color": "#34a853",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+            "og:site_name": "Android Developers",
+            "og:title": "Guide to app architecture  |  Android Developers",
+            "og:image:height": "675",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en",
+            "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award",
+            "og:url": "https://developer.android.com/topic/architecture"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://developer.android.com/static/images/social/android-developers.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Android Architecture - GeeksforGeeks",
+      "htmlTitle": "\u003cb\u003eAndroid Architecture\u003c/b\u003e - GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/android-architecture/",
+      "displayLink": "www.geeksforgeeks.org",
+      "snippet": "Feb 26, 2021 ... Android Architecture ... Android architecture contains different number of components to support any android device needs. Android software ...",
+      "htmlSnippet": "Feb 26, 2021 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAndroid Architecture\u003c/b\u003e ... \u003cb\u003eAndroid architecture\u003c/b\u003e contains different number of components to support any android device needs. Android software&nbsp;...",
+      "cacheId": "FP2zustYO7QJ",
+      "formattedUrl": "https://www.geeksforgeeks.org/android-architecture/",
+      "htmlFormattedUrl": "https://www.geeksforgeeks.org/\u003cb\u003eandroid\u003c/b\u003e-\u003cb\u003earchitecture\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS640jPcR1eALV5dzvaGOz3pV_aysDVE0NxLCnvdUVKMObHNvJo8RsDWMc",
+            "width": "225",
+            "height": "224"
+          }
+        ],
+        "metatags": [
+          {
+            "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+            "og:image": "https://media.geeksforgeeks.org/wp-content/uploads/20190912123353/architecture.jpg",
+            "theme-color": "#308D46",
+            "og:image:width": "200",
+            "og:type": "article",
+            "article:section": "Android",
+            "article:published_time": "2019-09-12T19:35:54+00:00",
+            "og:site_name": "GeeksforGeeks",
+            "og:title": "Android Architecture - GeeksforGeeks",
+            "og:image:height": "200",
+            "og:image:type": "image/png",
+            "og:updated_time": "2021-02-26T18:55:12+00:00",
+            "msapplication-tileimage": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png",
+            "og:description": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+            "og:image:secure_url": "https://media.geeksforgeeks.org/wp-content/uploads/20190912123353/architecture.jpg",
+            "facebook-domain-verification": "xo7t4ve2wn3ywfkjdvwbrk01pvdond",
+            "article:modified_time": "2021-02-26T18:55:12+00:00",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=3.0",
+            "og:locale": "en_US",
+            "og:url": "https://www.geeksforgeeks.org/android-architecture/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.geeksforgeeks.org/wp-content/uploads/20190912123353/architecture.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Platform architecture | Android Developers",
+      "htmlTitle": "Platform \u003cb\u003earchitecture\u003c/b\u003e | \u003cb\u003eAndroid\u003c/b\u003e Developers",
+      "link": "https://developer.android.com/guide/platform",
+      "displayLink": "developer.android.com",
+      "snippet": "May 4, 2023 ... Android is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the ...",
+      "htmlSnippet": "May 4, 2023 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAndroid\u003c/b\u003e is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the&nbsp;...",
+      "cacheId": "aF3MH8ospKEJ",
+      "formattedUrl": "https://developer.android.com/guide/platform",
+      "htmlFormattedUrl": "https://developer.\u003cb\u003eandroid\u003c/b\u003e.com/guide/platform",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaor1OvjVBcqTzicMhcDgj3r2wt8N07ABEhs1C1w0CoxEWTnA1_03ihgE",
+            "width": "185",
+            "height": "273"
+          }
+        ],
+        "document": [
+          {
+            "keywords": "E__category__Android E__category__Mobile E__product__Android E__category__OperatingSystem E__category__Interest K__product__Android",
+            "keyword": "E__category__Android"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://developer.android.com/static/guide/platform/guide/platform/images/android-stack_2x.png",
+            "og:type": "website",
+            "theme-color": "#34a853",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+            "og:site_name": "Android Developers",
+            "og:title": "Platform architecture  |  Android Developers",
+            "og:image:height": "675",
+            "og:description": "Android is an open source, Linux-based software stack created for a wide array of devices and form factors. The following diagram shows the major components of the Android platform. The foundation of the Android platform is the Linux kernel. For example…",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en",
+            "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award",
+            "og:url": "https://developer.android.com/guide/platform"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://developer.android.com/static/guide/platform/images/android-stack_2x.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Architecture overview | Android Open Source Project",
+      "htmlTitle": "\u003cb\u003eArchitecture\u003c/b\u003e overview | \u003cb\u003eAndroid\u003c/b\u003e Open Source Project",
+      "link": "https://source.android.com/docs/core/architecture",
+      "displayLink": "source.android.com",
+      "snippet": "Architecture overview ... The Android Open System Platform (AOSP) is publicly available and modifiable Android source code. Anyone can download and modify AOSP ...",
+      "htmlSnippet": "\u003cb\u003eArchitecture\u003c/b\u003e overview ... The \u003cb\u003eAndroid\u003c/b\u003e Open System Platform (AOSP) is publicly available and modifiable \u003cb\u003eAndroid\u003c/b\u003e source code. Anyone can download and modify AOSP&nbsp;...",
+      "cacheId": "Wk1fu1JfR1oJ",
+      "formattedUrl": "https://source.android.com/docs/core/architecture",
+      "htmlFormattedUrl": "https://source.\u003cb\u003eandroid\u003c/b\u003e.com/docs/core/\u003cb\u003earchitecture\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu-Z2V1MUFV-EswlBhu6oMzvi6rUmXx840w6wd37dovKENc8zs5tT1JRc",
+            "width": "225",
+            "height": "224"
+          }
+        ],
+        "document": [
+          {
+            "keywords": "E__category__OpenSource E__category__Interest E__product__Android E__category__OperatingSystem E__category__OpenSourceProjects E__category__Android E__category__Mobile K__category__OpenSource K__product__Android",
+            "keyword": "E__category__OpenSource"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "theme-color": "#34a853",
+            "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+            "og:site_name": "Android Open Source Project",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Architecture overview  |  Android Open Source Project",
+            "og:locale": "en",
+            "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award",
+            "og:url": "https://source.android.com/docs/core/architecture"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://source.android.com/static/images/android-stack.svg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "android/architecture-samples: A collection of samples to ... - GitHub",
+      "htmlTitle": "android/architecture-samples: A collection of samples to ... - GitHub",
+      "link": "https://github.com/android/architecture-samples",
+      "displayLink": "github.com",
+      "snippet": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. - GitHub - android/architecture-samples: A ...",
+      "htmlSnippet": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. - GitHub - \u003cb\u003eandroid\u003c/b\u003e/\u003cb\u003earchitecture\u003c/b\u003e-samples: A&nbsp;...",
+      "cacheId": "yfDvA8koVOoJ",
+      "formattedUrl": "https://github.com/android/architecture-samples",
+      "htmlFormattedUrl": "https://github.com/\u003cb\u003eandroid\u003c/b\u003e/\u003cb\u003earchitecture\u003c/b\u003e-samples",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQD_D_zcJWOGiUoi6dJ-_AkpuhJCi1TOQ20m0nju6fhRipMBS_rl9ocg44",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "license": "LICENSE",
+            "author": "android",
+            "name": "architecture-samples",
+            "text": "Android Architecture Samples These samples showcase different architectural approaches to developing Android apps. In its different branches you'll find the same app (a TODO app) implemented..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/android/architecture-samples",
+            "og:image": "https://opengraph.githubassets.com/c565bfcd91060d721b70987dd4e02ccac514878d5fb14d20b74d7101d686890f/android/architecture-samples",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:51148780",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "fcfbd5d32a39db1960f647524753556681ad9f8fc4d031dcbe59514f895cd8e6",
+            "expected-hostname": "github.com",
+            "og:description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. - GitHub - android/architecture-samples: A collection of samples to discuss and showcase...",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "android",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJBNEI0OjU4OEQ6M0UyRUJFMTo1NzhCQzlGOjY1NzQ4M0I1IiwidmlzaXRvcl9pZCI6IjQ1MDg2NjI5NjYwMTc4ODUxMTQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "51148780",
+            "octolytics-dimension-repository_network_root_nwo": "android/architecture-samples",
+            "twitter:title": "GitHub - android/architecture-samples: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+            "og:image:alt": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. - GitHub - android/architecture-samples: A collection of samples to discuss and showcase...",
+            "og:type": "object",
+            "optimizely-datafile": "{\"groups\": [], \"environmentKey\": \"production\", \"rollouts\": [], \"typedAudiences\": [], \"projectId\": \"16737760170\", \"variables\": [], \"featureFlags\": [], \"experiments\": [], \"version\": \"4\", \"audiences\": [{\"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\", \"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\"}], \"anonymizeIP\": true, \"sdkKey\": \"WTc6awnGuYDdG98CYRban\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"botFiltering\": false, \"accountId\": \"16737760170\", \"events\": [{\"experimentIds\": [], \"id\": \"17911811441\", \"key\": \"hydro_click.dashboa",
+            "og:title": "GitHub - android/architecture-samples: A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+            "visitor-hmac": "afe3b76e14095da7748edee3a080bf6c4773a6b0b909acec7c20223d3f2cb31f",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "A4B4:588D:3E2EBE1:578BC9F:657483B5",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/android/architecture-samples git https://github.com/android/architecture-samples.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/c565bfcd91060d721b70987dd4e02ccac514878d5fb14d20b74d7101d686890f/android/architecture-samples",
+            "octolytics-dimension-user_id": "32689599",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "51148780",
+            "octolytics-dimension-repository_nwo": "android/architecture-samples",
+            "viewport": "width=device-width",
+            "twitter:description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps. - GitHub - android/architecture-samples: A collection of samples to discuss and showcase...",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/android/architecture-samples"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/c565bfcd91060d721b70987dd4e02ccac514878d5fb14d20b74d7101d686890f/android/architecture-samples"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Android architecture usage? - Stack Overflow",
+      "htmlTitle": "\u003cb\u003eAndroid architecture\u003c/b\u003e usage? - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/33228158/android-architecture-usage",
+      "displayLink": "stackoverflow.com",
+      "snippet": "Oct 20, 2015 ... With armeabi-v7a you support more than 90% of the available devices, but since it is 32bit architecture, running it on 64bit devices will result ...",
+      "htmlSnippet": "Oct 20, 2015 \u003cb\u003e...\u003c/b\u003e With armeabi-v7a you support more than 90% of the available devices, but since it is 32bit \u003cb\u003earchitecture\u003c/b\u003e, running it on 64bit devices will result&nbsp;...",
+      "cacheId": "fxbTSaRrnwgJ",
+      "formattedUrl": "https://stackoverflow.com/questions/33228158/android-architecture-usage",
+      "htmlFormattedUrl": "https://stackoverflow.com/questions/33228158/\u003cb\u003eandroid\u003c/b\u003e-\u003cb\u003earchitecture\u003c/b\u003e-usage",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYl7zuT3cw_BBRAyhdQEbQuBgqdNHXKHIYKL8S8ly8x9L_XA9sdwSmiHs",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "qapage": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "primaryimageofpage": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "name": "Android architecture usage?",
+            "description": "I have a few native libraries that are fairly big and bloating the application binary size. I looked into APK splitting but maintaining and QAing multiple APKs is not something I want to do. So I'..."
+          }
+        ],
+        "question": [
+          {
+            "image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+            "upvotecount": "48",
+            "answercount": "4",
+            "name": "Android architecture usage?",
+            "datecreated": "2015-10-20T04:42:15",
+            "text": "I have a few native libraries that are fairly big and bloating the application binary size. I looked into APK splitting but maintaining and QAing multiple APKs is not something I want to do....",
+            "url": "Share"
+          }
+        ],
+        "answer": [
+          {
+            "upvotecount": "46",
+            "commentcount": "7",
+            "text": "First off, if you're worring about binary size, you don't really need arm64-v8a, all those devices can run the armeabi-v7a binaries just fine. Only if you really need to cram the last extra...",
+            "datecreated": "2015-10-20T07:09:21",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "32",
+            "commentcount": "2",
+            "text": "Including additional architectures will no longer have any impact on the binary size when using app bundles, as in that case Google Play will serve each device only the binaries that apply...",
+            "datecreated": "2017-02-06T11:48:15",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "22",
+            "commentcount": "0",
+            "text": "I was stuck with this problem when using Mapbox, then later found this article which was very useful. Based on the below picture you just need armeabi-v7a and x86. Then based on Jose Gómez...",
+            "datecreated": "2018-11-21T13:58:48",
+            "url": "Share"
+          },
+          {
+            "upvotecount": "4",
+            "text": "When I read @mstorsjo answer I was a little bit confused how to really use only one (or two) native libs, even though it's quite simple and straightforward. Therefore, I will give here an example...",
+            "datecreated": "2018-11-14T10:02:39",
+            "url": "Share"
+          }
+        ],
+        "person": [
+          {
+            "name": "kos"
+          },
+          {
+            "name": "mstorsjo"
+          },
+          {
+            "name": "Jose Gómez"
+          },
+          {
+            "name": "Radesh"
+          },
+          {
+            "name": "goemic"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Android architecture usage?",
+            "og:site_name": "Stack Overflow",
+            "twitter:domain": "stackoverflow.com",
+            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+            "twitter:description": "I have a few native libraries that are fairly big and bloating the application binary size. I looked into APK splitting but maintaining and QAing multiple APKs is not something I want to do.\n\nSo I'...",
+            "og:url": "https://stackoverflow.com/questions/33228158/android-architecture-usage"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "android/architecture-components-samples: Samples for ... - GitHub",
+      "htmlTitle": "android/architecture-components-samples: Samples for ... - GitHub",
+      "link": "https://github.com/android/architecture-components-samples",
+      "displayLink": "github.com",
+      "snippet": "Android Architecture Components samples · Room · Lifecycle-aware components · ViewModels · LiveData · Paging · Navigation · ViewBinding · WorkManager. Samples.",
+      "htmlSnippet": "\u003cb\u003eAndroid Architecture\u003c/b\u003e Components samples &middot; Room &middot; Lifecycle-aware components &middot; ViewModels &middot; LiveData &middot; Paging &middot; Navigation &middot; ViewBinding &middot; WorkManager. Samples.",
+      "cacheId": "S2jYhPyL1esJ",
+      "formattedUrl": "https://github.com/android/architecture-components-samples",
+      "htmlFormattedUrl": "https://github.com/\u003cb\u003eandroid\u003c/b\u003e/\u003cb\u003earchitecture\u003c/b\u003e-components-samples",
+      "pagemap": {
+        "softwaresourcecode": [
+          {
+            "license": "LICENSE",
+            "author": "android",
+            "name": "architecture-components-samples",
+            "text": "Android Architecture Components samples A collection of samples using the Architecture Components: Room Lifecycle-aware components ViewModels LiveData Paging Navigation ViewBinding WorkManager..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-url": "https://collector.github.com/github/collect",
+            "apple-itunes-app": "app-id=1477376905, app-argument=https://github.com/android/architecture-components-samples",
+            "og:image": "https://opengraph.githubassets.com/7527fefb9ff82730473392b8671990ac608719908ce53718918cd32b9feaa532/android/architecture-components-samples",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "1200",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "hovercard-subject-tag": "repository:90792131",
+            "turbo-body-classes": "logged-out env-production page-responsive",
+            "html-safe-nonce": "3fb1f93bc6347b2948fd7299d3ee0433e8f80148df8fcb95d6afd335da641355",
+            "expected-hostname": "github.com",
+            "og:description": "Samples for Android Architecture Components. . Contribute to android/architecture-components-samples development by creating an account on GitHub.",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "octolytics-dimension-user_login": "android",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "route-pattern": "/:user_id/:repository",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4OTYxOjQ3MkM6MzFBODZCNzo0Njc5OURFOjY1NzQyRjY1IiwidmlzaXRvcl9pZCI6IjkwMTkxNTg5ODM3MjA4NDEwNjIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "90792131",
+            "octolytics-dimension-repository_network_root_nwo": "android/architecture-components-samples",
+            "twitter:title": "GitHub - android/architecture-components-samples: Samples for Android Architecture Components.",
+            "og:image:alt": "Samples for Android Architecture Components. . Contribute to android/architecture-components-samples development by creating an account on GitHub.",
+            "og:type": "object",
+            "optimizely-datafile": "{\"groups\": [], \"environmentKey\": \"production\", \"rollouts\": [], \"typedAudiences\": [], \"projectId\": \"16737760170\", \"variables\": [], \"featureFlags\": [], \"experiments\": [], \"version\": \"4\", \"audiences\": [{\"conditions\": \"[\\\"or\\\", {\\\"match\\\": \\\"exact\\\", \\\"name\\\": \\\"$opt_dummy_attribute\\\", \\\"type\\\": \\\"custom_attribute\\\", \\\"value\\\": \\\"$opt_dummy_value\\\"}]\", \"id\": \"$opt_dummy_audience\", \"name\": \"Optimizely-Generated Audience for Backwards Compatibility\"}], \"anonymizeIP\": true, \"sdkKey\": \"WTc6awnGuYDdG98CYRban\", \"attributes\": [{\"id\": \"16822470375\", \"key\": \"user_id\"}, {\"id\": \"17143601254\", \"key\": \"spammy\"}, {\"id\": \"18175660309\", \"key\": \"organization_plan\"}, {\"id\": \"18813001570\", \"key\": \"is_logged_in\"}, {\"id\": \"19073851829\", \"key\": \"geo\"}, {\"id\": \"20175462351\", \"key\": \"requestedCurrency\"}, {\"id\": \"20785470195\", \"key\": \"country_code\"}, {\"id\": \"21656311196\", \"key\": \"opened_downgrade_dialog\"}], \"botFiltering\": false, \"accountId\": \"16737760170\", \"events\": [{\"experimentIds\": [], \"id\": \"17911811441\", \"key\": \"hydro_click.dashboa",
+            "og:title": "GitHub - android/architecture-components-samples: Samples for Android Architecture Components.",
+            "visitor-hmac": "e6c747f0694088d12dee3cc5019dbd5bec6b0324ede1b2dbea8be3c52b30371d",
+            "og:image:height": "600",
+            "turbo-cache-control": "no-preview",
+            "request-id": "8961:472C:31A86B7:46799DE:65742F65",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "color-scheme": "light dark",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/android/architecture-components-samples git https://github.com/android/architecture-components-samples.git",
+            "browser-optimizely-client-errors-url": "https://api.github.com/_private/browser/optimizely_client/errors",
+            "twitter:image:src": "https://opengraph.githubassets.com/7527fefb9ff82730473392b8671990ac608719908ce53718918cd32b9feaa532/android/architecture-components-samples",
+            "octolytics-dimension-user_id": "32689599",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "90792131",
+            "octolytics-dimension-repository_nwo": "android/architecture-components-samples",
+            "viewport": "width=device-width",
+            "twitter:description": "Samples for Android Architecture Components. . Contribute to android/architecture-components-samples development by creating an account on GitHub.",
+            "current-catalog-service-hash": "82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7",
+            "og:url": "https://github.com/android/architecture-components-samples"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://opengraph.githubassets.com/7527fefb9ff82730473392b8671990ac608719908ce53718918cd32b9feaa532/android/architecture-components-samples"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Android app architecture - Development - MetaBrainz Community ...",
+      "htmlTitle": "\u003cb\u003eAndroid\u003c/b\u003e app \u003cb\u003earchitecture\u003c/b\u003e - Development - MetaBrainz Community ...",
+      "link": "https://community.metabrainz.org/t/android-app-architecture/419720",
+      "displayLink": "community.metabrainz.org",
+      "snippet": "Mar 8, 2019 ... Create a main ViewModel that acts as a controller / mediator for other viewmodels, one for each responsibility. One controls master page, which ...",
+      "htmlSnippet": "Mar 8, 2019 \u003cb\u003e...\u003c/b\u003e Create a main ViewModel that acts as a controller / mediator for other viewmodels, one for each responsibility. One controls master page, which&nbsp;...",
+      "cacheId": "T3hXb2GjMZMJ",
+      "formattedUrl": "https://community.metabrainz.org/t/android-app-architecture/419720",
+      "htmlFormattedUrl": "https://community.metabrainz.org/t/\u003cb\u003eandroid\u003c/b\u003e-app-\u003cb\u003earchitecture\u003c/b\u003e/419720",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSLysLlT5tJX7PwfGGEi8FGiqwDqzAPcqq4__B361C1E4GcjBJTAw7rB7J",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "imageobject": [
+          {
+            "url": "https://community.metabrainz.org/uploads/default/original/3X/3/8/38781ba6186c3961e8a4daaed591ddbabe850180.png"
+          }
+        ],
+        "person": [
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "Deleted_Editor_2217999",
+            "url": "Deleted_Editor_2217999"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "Deleted_Editor_2217999",
+            "url": "Deleted_Editor_2217999"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          },
+          {
+            "name": "Tricknologic",
+            "url": "Tricknologic"
+          },
+          {
+            "name": "Deleted_Editor_2217999",
+            "url": "Deleted_Editor_2217999"
+          },
+          {
+            "name": "gr0uch0mars",
+            "url": "gr0uch0mars"
+          }
+        ],
+        "organization": [
+          {
+            "name": "MetaBrainz Foundation"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "http://schema.org/CommentAction"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://community.metabrainz.org/uploads/default/original/3X/5/4/54172440bea26f190a843930acbc5def0d7556e0.png",
+            "theme-color": "#ffffff",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Android app architecture",
+            "article:published_time": "2019-03-08T08:52:15+00:00",
+            "og:site_name": "MetaBrainz Community Discourse",
+            "twitter:url": "https://community.metabrainz.org/t/android-app-architecture/419720",
+            "og:title": "Android app architecture",
+            "og:description": "I open this thread to discuss about the architecture to follow in the Android app. As it is a big topic in itself, I think this is a good way of sharing ideas, diagrams, posts, etc.  @amCap1712 and me are working on the Android app as part of the GSoC 2019 project, but anyone with knowledge on the field is welcome to share ideas!!  I will link here posts and answers interesting for each section, so you don’t have to read all answers  Section: Artist   Architecture with LiveData for artist detail...",
+            "twitter:image": "https://community.metabrainz.org/uploads/default/original/3X/5/4/54172440bea26f190a843930acbc5def0d7556e0.png",
+            "og:article:tag": "android",
+            "og:ignore_canonical": "true",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+            "twitter:description": "I open this thread to discuss about the architecture to follow in the Android app. As it is a big topic in itself, I think this is a good way of sharing ideas, diagrams, posts, etc.  @amCap1712 and me are working on the Android app as part of the GSoC 2019 project, but anyone with knowledge on the field is welcome to share ideas!!  I will link here posts and answers interesting for each section, so you don’t have to read all answers  Section: Artist   Architecture with LiveData for artist detail...",
+            "og:article:section": "MusicBrainz",
+            "og:url": "https://community.metabrainz.org/t/android-app-architecture/419720",
+            "og:article:section:color": "BA478F"
+          }
+        ],
+        "discussionforumposting": [
+          {
+            "articlebody": "I open this thread to discuss about the architecture to follow in the Android app. As it is a big topic in itself, I think this is a good way of sharing ideas, diagrams, posts, etc. @amCap1712...",
+            "keywords": "android",
+            "datemodified": "2019-03-12T12:22:27Z",
+            "articlesection": "Development",
+            "position": "1",
+            "headline": "Android app architecture",
+            "datepublished": "2019-03-08T08:52:15Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          }
+        ],
+        "comment": [
+          {
+            "image": "https://community.metabrainz.org/uploads/default/original/3X/0/3/032eb71245addb8db3ec08324e552b08166af238.png",
+            "datemodified": "2019-03-08T10:12:20Z",
+            "position": "2",
+            "text": "Two livedata for Artist detail and releases As there are many queries to make to fill an artist info, I propose an architecture something like this: MusicBrainz%20Android771×341 19.2 KB When...",
+            "datepublished": "2019-03-08T08:59:01Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2019-03-08T09:58:07Z",
+            "position": "3",
+            "text": "@amCap1712 found this post in SO: How to observe LiveData in RecyclerView adapter in MVVM architecture? We think it’s relevant for our purpose of showing releases cover arts on a list, but...",
+            "datepublished": "2019-03-08T09:58:07Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2019-03-08T12:47:14Z",
+            "position": "4",
+            "text": "Architecture design Here are some interesting posts about architecture (not specifically Android): The Clean Architecture Book Review: App Architecture : iOS Application Patterns in Swift Clean...",
+            "datepublished": "2019-03-08T11:58:45Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "image": "https://community.metabrainz.org/uploads/default/original/3X/b/b/bb351809aa8010488e0beeb824745b982c0a9a2f.png",
+            "datemodified": "2019-03-12T12:08:07Z",
+            "position": "5",
+            "text": "@amCap1712 I’ve talked to an Android work mate and the best practise (and only) he suggests is when the release item is presented, ask the Repository to fetch the cover and update the release...",
+            "datepublished": "2019-03-12T11:19:02Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2019-03-12T11:38:41Z",
+            "position": "6",
+            "text": "Thats fine but the problem is that there is no efficient way of using a viewmodel inside the activity. We need to pass in a context and that will result in memory leaks. So the repository should...",
+            "datepublished": "2019-03-12T11:38:41Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2019-03-12T12:20:18Z",
+            "position": "7",
+            "text": "I have updated the diagram: I meant the ViewModel reference is passed to the Adapter and from there it asks the ViewModel to fetch the cover art (which would asynchronously and eventually notify...",
+            "datepublished": "2019-03-12T12:20:18Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2019-03-12T13:24:03Z",
+            "position": "8",
+            "text": "The second SO answer removes my doubts. I believed we should use only global application context in an adapter but as it says, its fine to use.",
+            "datepublished": "2019-03-12T13:24:03Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "image": "https://community.metabrainz.org/uploads/default/original/3X/8/f/8f3bc27423eee6e334a6c762ae5cba66bab7b155.png",
+            "datemodified": "2019-04-11T11:18:42Z",
+            "position": "9",
+            "text": "Release screen release-2351×571 16.3 KB The idea is to keep as much info as possible in the main Release screen: release info on top (navigating to a exhaustive Links list and sliding between...",
+            "datepublished": "2019-04-11T11:18:42Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2019-09-07T02:49:47Z",
+            "position": "10",
+            "text": "Fashionably late here, but I suggest the following. Create a main ViewModel that acts as a controller / mediator for other viewmodels, one for each responsibility. One controls master page,...",
+            "datepublished": "2019-09-07T02:49:47Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2020-02-05T16:31:28Z",
+            "position": "11",
+            "text": "Thanks for the answer. Can you provide more details? -\u003e == inject, \u003c\u003c == get +… created by right …+ created by left \u003c… create& observe Application …+{repositiry) \u003c\u003c Activity / fragment...",
+            "datepublished": "2020-02-05T16:31:28Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          },
+          {
+            "datemodified": "2020-03-10T17:43:54Z",
+            "position": "12",
+            "text": "Hi @Tricknologic thanks for your proposal! I didn’t quite understand it all, but I am curious about what you meant. Please, could you make it more descriptive maybe by drawing it? Something...",
+            "datepublished": "2020-03-10T17:43:54Z",
+            "mainentityofpage": "https://community.metabrainz.org/t/android-app-architecture/419720"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://community.metabrainz.org/uploads/default/original/3X/5/4/54172440bea26f190a843930acbc5def0d7556e0.png"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "name": "Home",
+            "url": "Home"
+          },
+          {
+            "name": "Categories",
+            "url": "Categories"
+          },
+          {
+            "name": "FAQ/Guidelines",
+            "url": "FAQ/Guidelines"
+          },
+          {
+            "name": "Terms of Service",
+            "url": "Terms of Service"
+          },
+          {
+            "name": "Privacy Policy",
+            "url": "Privacy Policy"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "MusicBrainz",
+            "name": "MusicBrainz",
+            "position": "1"
+          },
+          {
+            "item": "Development",
+            "name": "Development",
+            "position": "2"
+          },
+          {
+            "position": "2",
+            "url": "GSoC 2019: Bringing back MusicBrainz for Android to life"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Build android project is error, No Android architecture (ABI) is set by ...",
+      "htmlTitle": "Build android project is error, No \u003cb\u003eAndroid architecture\u003c/b\u003e (ABI) is set by ...",
+      "link": "https://forum.qt.io/topic/141011/build-android-project-is-error-no-android-architecture-abi-is-set-by-the-project",
+      "displayLink": "forum.qt.io",
+      "snippet": "Nov 25, 2022 ... You can not use JDK 17. The latest JDK supported on Android is 11. Click Projects-\u003eBuild-\u003eBuild Steps-\u003eqmake -- details to select ABIs. I think ...",
+      "htmlSnippet": "Nov 25, 2022 \u003cb\u003e...\u003c/b\u003e You can not use JDK 17. The latest JDK supported on \u003cb\u003eAndroid\u003c/b\u003e is 11. Click Projects-&gt;Build-&gt;Build Steps-&gt;qmake -- details to select ABIs. I think&nbsp;...",
+      "cacheId": "hknJ88G1JuEJ",
+      "formattedUrl": "https://forum.qt.io/.../build-android-project-is-error-no-android-architecture...",
+      "htmlFormattedUrl": "https://forum.qt.io/.../build-\u003cb\u003eandroid\u003c/b\u003e-project-is-error-no-\u003cb\u003eandroid\u003c/b\u003e-\u003cb\u003earchitecture\u003c/b\u003e...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpZqsa1l5m8l6EnciyC3Z4Rm4KfMgF6PoTbj7l9OuBXYxxYRzjqAb9Fjtz",
+            "width": "175",
+            "height": "175"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://ddgobkiprc33d.cloudfront.net/bfdb2533-84e9-45a1-956a-106722433d3f.png",
+            "theme-color": "#ffffff",
+            "og:type": "article",
+            "article:published_time": "2022-11-25T08:06:08.736Z",
+            "article:section": "Mobile and Embedded",
+            "og:image:width": "175",
+            "og:site_name": "Qt Forum",
+            "og:image:url": "https://ddgobkiprc33d.cloudfront.net/bfdb2533-84e9-45a1-956a-106722433d3f.png",
+            "og:title": "Build android project is error, No Android architecture (ABI) is set by the project.",
+            "og:image:height": "175",
+            "title": "Build android project is error, No Android architecture (ABI) is set by the project.",
+            "msapplication-square150x150logo": "https://ddgobkiprc33d.cloudfront.net/bfdb2533-84e9-45a1-956a-106722433d3f.png",
+            "og:description": "my qtcreator kits have a warning . device type is not supported by qt version.  As the picture above shows, this kit has a yellow warning, when I create a new project, if I use this kit,and I want to run. I will get this error.  No Android architecture (A...",
+            "msapplication-badge": "frequency=30; polling-uri=https://forum.qt.io/sitemap.xml",
+            "article:modified_time": "2022-12-02T18:39:04.091Z",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "mobile-web-app-capable": "yes",
+            "content-type": "text/html; charset=UTF-8",
+            "og:url": "https://forum.qt.io/topic/141011/build-android-project-is-error-no-android-architecture-abi-is-set-by-the-project"
+          }
+        ],
+        "comment": [
+          {
+            "author": "printfne",
+            "text": "my qtcreator kits have a warning . device type is not supported by qt version. As the picture above shows, this kit has a yellow warning, when I create a new project, if I use this kit,and...",
+            "datepublished": "2022-11-25T08:06:08.736Z"
+          },
+          {
+            "datemodified": "2022-11-25T15:30:06.166Z",
+            "author": "JoeCFD",
+            "text": "jdk version 8 may be too low. Try jdk 11. Set-up environment variables for android build. Install qt libs for Android. https://doc.qt.io/qt-6/android-getting-started.html https://doc.qt.io/qt-6/cma...",
+            "datepublished": "2022-11-25T15:20:51.069Z"
+          },
+          {
+            "author": "printfne",
+            "text": "@JoeCFD When I try modify Device -\u003e Android -\u003eJDK location to modify jdk version, if I use jdk 8 or 11 or 19,is no error,but Kits-\u003emanual-\u003eAndroid warning remains device type is not supported...",
+            "datepublished": "2022-11-26T02:34:51.448Z"
+          },
+          {
+            "datemodified": "2022-11-28T15:46:30.265Z",
+            "author": "JoeCFD",
+            "text": "You can not use JDK 17. The latest JDK supported on Android is 11. Click Projects-\u003eBuild-\u003eBuild Steps-\u003eqmake -- details to select ABIs. I think it is better to select arm64-v8a for 64 bit machines.",
+            "datepublished": "2022-11-28T15:24:44.791Z"
+          },
+          {
+            "author": "printfne",
+            "text": "@JoeCFD I didn't find these ABIs because I'm missing something, and I hope you can tell me what to do",
+            "datepublished": "2022-12-02T18:39:04.091Z"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ddgobkiprc33d.cloudfront.net/bfdb2533-84e9-45a1-956a-106722433d3f.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Flux Android Architecture Components using Kotlin | by Lewis Rhine ...",
+      "htmlTitle": "Flux \u003cb\u003eAndroid Architecture\u003c/b\u003e Components using Kotlin | by Lewis Rhine ...",
+      "link": "https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883",
+      "displayLink": "medium.com",
+      "snippet": "Jun 6, 2017 ... Flux is an architect that is based around the idea of unidirectional data flow, meaning the view layer spits out actions. Your data layer and ...",
+      "htmlSnippet": "Jun 6, 2017 \u003cb\u003e...\u003c/b\u003e Flux is an \u003cb\u003earchitect\u003c/b\u003e that is based around the idea of unidirectional data flow, meaning the view layer spits out actions. Your data layer and&nbsp;...",
+      "cacheId": "myRMrOIF87kJ",
+      "formattedUrl": "https://medium.com/.../flux-android-architecture-components-using-kotlin-...",
+      "htmlFormattedUrl": "https://medium.com/.../flux-\u003cb\u003eandroid\u003c/b\u003e-\u003cb\u003earchitecture\u003c/b\u003e-components-using-kotlin-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS6dwhwwQkB_zNhxbAnmWCiDUDD7K0gFJ03Onxkl10CqV9owMIz5lDzuhg",
+            "width": "332",
+            "height": "152"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://miro.medium.com/v2/resize:fit:1200/1*A6z0Le--3mwWRnzzt6snfw.jpeg",
+            "twitter:app:url:iphone": "medium://p/a1c933ebf883",
+            "theme-color": "#000000",
+            "article:published_time": "2017-06-06T19:23:52.551Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:label1": "Reading time",
+            "twitter:tile:template:testing": "2",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Flux Android Architecture Components using Kotlin | by Lewis Rhine | LewisRhine | Medium",
+            "al:ios:url": "medium://p/a1c933ebf883",
+            "og:description": "Like every Android Dev, I was over the moon when I saw that Google announced Kotlin as a first class language at I/O. That said, the thing…",
+            "twitter:creator": "@Lewisrhine",
+            "al:ios:app_store_id": "828256236",
+            "twitter:data1": "8 min read",
+            "twitter:site": "@Lewisrhine",
+            "twitter:tile:info1:text": "Lewis Rhine",
+            "twitter:tile:info1:icon": "Person",
+            "og:type": "article",
+            "twitter:title": "Flux Android Architecture Components using Kotlin",
+            "al:ios:app_name": "Medium",
+            "twitter:cta": "Read on Medium",
+            "author": "Lewis Rhine",
+            "og:title": "Flux Android Architecture Components using Kotlin",
+            "al:web:url": "https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883",
+            "article:author": "https://medium.com/@lewisrhine",
+            "twitter:tile:info2:text": "Jun 6, 2017",
+            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:1200/1*A6z0Le--3mwWRnzzt6snfw.jpeg",
+            "al:android:url": "medium://p/a1c933ebf883",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+            "twitter:tile:info2:icon": "Calendar",
+            "twitter:description": "Like every Android Dev, I was over the moon when I saw that Google announced Kotlin as a first class language at I/O. That said, the thing…",
+            "twitter:tile:image": "https://miro.medium.com/v2/resize:fit:1200/1*A6z0Le--3mwWRnzzt6snfw.jpeg",
+            "og:url": "https://medium.com/lewisrhine/flux-android-architecture-components-using-kotlin-a1c933ebf883",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miro.medium.com/v2/resize:fit:1200/1*A6z0Le--3mwWRnzzt6snfw.jpeg"
+          }
+        ]
+      }
+    }
+  ]
+}
